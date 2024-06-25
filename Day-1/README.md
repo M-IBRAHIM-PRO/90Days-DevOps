@@ -44,7 +44,3 @@ https://www.linkedin.com/posts/m-ibrahim-pro_what-is-devops-and-why-it-is-needed
 ```
 https://medium.com/@m.ibrahm.0001/what-is-devops-and-why-it-is-needed-in-the-modern-era-0b34aac30169
 ```
-    
-
-
-You can copy this content directly into your `README.md` file in your repository.
