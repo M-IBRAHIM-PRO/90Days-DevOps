@@ -27,6 +27,6 @@ mkdir -p A/B/C/D/E
 For more detailed information and a video lecture reference :
 [Video Lecture reference](https://www.youtube.com/watch?v=39oyFIStuaI)
 
-File for the basic-linux comands :
-[Check this file for reference](basic-linux-command.md)
+Blog for the basic-linux comands :
+[Check this blog for reference](https://medium.com/@m.ibrahm.0001/introduction-to-basic-linux-commands-and-their-role-in-devops-290514a70359)
 ```
